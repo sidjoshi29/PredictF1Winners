@@ -1,4 +1,3 @@
-# collect_results_data.py
 import pandas as pd
 import requests
 
@@ -25,10 +24,9 @@ def query_results_data(rounds):
     return pd.DataFrame(results)
 
 if __name__ == "__main__":
-    # Example rounds data; this should be replaced with actual data
     rounds = [
-        [2022, [1, 2, 3, 4, 5, 6, 7]],
-        [2023, [1, 2, 3, 4, 5, 6, 7, 8]]
+        [2022, list(range(1, 23))],
+        [2023, list(range(1, 23))]
     ]
     results_data = query_results_data(rounds)
     results_data.to_csv('data/results_data.csv', index=False)
