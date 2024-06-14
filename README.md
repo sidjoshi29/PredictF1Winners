@@ -55,24 +55,6 @@ Here are some example predictions made by the model:
 
 *Note: The current model may not always predict accurately. Ongoing improvements and tuning are planned to enhance prediction accuracy.*
 
-## How to Run the Application
-
-1. Ensure all dependencies are installed:
-    ```bash
-    pip install pandas scikit-learn streamlit matplotlib seaborn
-    ```
-
-2. Run the Streamlit app:
-    ```bash
-    streamlit run app.py
-    ```
-
-3. Use the web interface to input race details and get predictions.
-
-## Visualizations
-
-The application includes visualizations to help understand the distribution of qualifying times and other key features.
-
 ## Conclusion
 
 This project is a step towards understanding and predicting F1 race outcomes using machine learning. While the model is not perfect yet, it lays the foundation for further exploration and improvement.
