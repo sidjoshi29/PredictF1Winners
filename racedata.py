@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-def query_race_data(start_year=1950, end_year=2024):
+def query_race_data(start_year=2000, end_year=2024):
     races = {'season': [], 'round': [], 'circuit_id': [], 'lat': [], 'long': [], 'country': [], 'date': [], 'url': []}
     for year in range(start_year, end_year):
         url = f'https://ergast.com/api/f1/{year}.json'
