@@ -1,0 +1,301 @@
+season,round,circuit_id,driver,date_of_birth,nationality,constructor,grid,time,status,points,podium
+2022,1,bahrain,leclerc,1997-10-16,Monegasque,ferrari,1,5853584,Finished,26,1
+2022,1,bahrain,sainz,1994-09-01,Spanish,ferrari,3,5859182,Finished,18,2
+2022,1,bahrain,hamilton,1985-01-07,British,mercedes,5,5863259,Finished,15,3
+2022,1,bahrain,russell,1998-02-15,British,mercedes,9,5864795,Finished,12,4
+2022,1,bahrain,kevin_magnussen,1992-10-05,Danish,haas,7,5868338,Finished,10,5
+2022,1,bahrain,bottas,1989-08-28,Finnish,alfa,6,5869703,Finished,8,6
+2022,1,bahrain,ocon,1996-09-17,French,alpine,11,5873007,Finished,6,7
+2022,1,bahrain,tsunoda,2000-05-11,Japanese,alphatauri,16,5873970,Finished,4,8
+2022,1,bahrain,alonso,1981-07-29,Spanish,alpine,8,5875974,Finished,2,9
+2022,1,bahrain,zhou,1999-05-30,Chinese,alfa,15,5876648,Finished,1,10
+2022,1,bahrain,mick_schumacher,1999-03-22,German,haas,12,5886158,Finished,0,11
+2022,1,bahrain,stroll,1998-10-29,Canadian,aston_martin,19,5899457,Finished,0,12
+2022,1,bahrain,albon,1996-03-23,Thai,williams,14,5907516,Finished,0,13
+2022,1,bahrain,ricciardo,1989-07-01,Australian,mclaren,18,5908559,Finished,0,14
+2022,1,bahrain,norris,1999-11-13,British,mclaren,13,5909919,Finished,0,15
+2022,1,bahrain,latifi,1995-06-29,Canadian,williams,20,5915379,Finished,0,16
+2022,1,bahrain,hulkenberg,1987-08-19,German,aston_martin,17,5917413,Finished,0,17
+2022,1,bahrain,perez,1990-01-26,Mexican,red_bull,4,,Fuel pressure,0,18
+2022,1,bahrain,max_verstappen,1997-09-30,Dutch,red_bull,2,,Fuel pressure,0,19
+2022,1,bahrain,gasly,1996-02-07,French,alphatauri,10,,Power Unit,0,20
+2022,2,jeddah,max_verstappen,1997-09-30,Dutch,red_bull,4,5059293,Finished,25,1
+2022,2,jeddah,leclerc,1997-10-16,Monegasque,ferrari,2,5059842,Finished,19,2
+2022,2,jeddah,sainz,1994-09-01,Spanish,ferrari,3,5067390,Finished,15,3
+2022,2,jeddah,perez,1990-01-26,Mexican,red_bull,1,5070093,Finished,12,4
+2022,2,jeddah,russell,1998-02-15,British,mercedes,6,5092025,Finished,10,5
+2022,2,jeddah,ocon,1996-09-17,French,alpine,5,5115310,Finished,8,6
+2022,2,jeddah,norris,1999-11-13,British,mclaren,11,5115417,Finished,6,7
+2022,2,jeddah,gasly,1996-02-07,French,alphatauri,9,5122239,Finished,4,8
+2022,2,jeddah,kevin_magnussen,1992-10-05,Danish,haas,10,5123601,Finished,2,9
+2022,2,jeddah,hamilton,1985-01-07,British,mercedes,15,5133241,Finished,1,10
+2022,2,jeddah,zhou,1999-05-30,Chinese,alfa,12,5141508,Finished,0,11
+2022,2,jeddah,hulkenberg,1987-08-19,German,aston_martin,17,5151035,Finished,0,12
+2022,2,jeddah,stroll,1998-10-29,Canadian,aston_martin,13,,+1 Lap,0,13
+2022,2,jeddah,albon,1996-03-23,Thai,williams,16,,Collision damage,0,14
+2022,2,jeddah,bottas,1989-08-28,Finnish,alfa,8,,Cooling system,0,15
+2022,2,jeddah,alonso,1981-07-29,Spanish,alpine,7,,Water pump,0,16
+2022,2,jeddah,ricciardo,1989-07-01,Australian,mclaren,14,,Gearbox,0,17
+2022,2,jeddah,latifi,1995-06-29,Canadian,williams,18,,Accident,0,18
+2022,2,jeddah,tsunoda,2000-05-11,Japanese,alphatauri,19,,Power Unit,0,19
+2022,2,jeddah,mick_schumacher,1999-03-22,German,haas,0,,Withdrew,0,20
+2022,3,albert_park,leclerc,1997-10-16,Monegasque,ferrari,1,5266548,Finished,26,1
+2022,3,albert_park,perez,1990-01-26,Mexican,red_bull,3,5287072,Finished,18,2
+2022,3,albert_park,russell,1998-02-15,British,mercedes,6,5292141,Finished,15,3
+2022,3,albert_park,hamilton,1985-01-07,British,mercedes,5,5295091,Finished,12,4
+2022,3,albert_park,norris,1999-11-13,British,mclaren,4,5319851,Finished,10,5
+2022,3,albert_park,ricciardo,1989-07-01,Australian,mclaren,7,5320285,Finished,8,6
+2022,3,albert_park,ocon,1996-09-17,French,alpine,8,5328231,Finished,6,7
+2022,3,albert_park,bottas,1989-08-28,Finnish,alfa,12,5334987,Finished,4,8
+2022,3,albert_park,gasly,1996-02-07,French,alphatauri,11,5342769,Finished,2,9
+2022,3,albert_park,albon,1996-03-23,Thai,williams,20,5345930,Finished,1,10
+2022,3,albert_park,zhou,1999-05-30,Chinese,alfa,14,5348243,Finished,0,11
+2022,3,albert_park,stroll,1998-10-29,Canadian,aston_martin,19,5355146,Finished,0,12
+2022,3,albert_park,mick_schumacher,1999-03-22,German,haas,15,,+1 Lap,0,13
+2022,3,albert_park,kevin_magnussen,1992-10-05,Danish,haas,16,,+1 Lap,0,14
+2022,3,albert_park,tsunoda,2000-05-11,Japanese,alphatauri,13,,+1 Lap,0,15
+2022,3,albert_park,latifi,1995-06-29,Canadian,williams,18,,+1 Lap,0,16
+2022,3,albert_park,alonso,1981-07-29,Spanish,alpine,10,,+1 Lap,0,17
+2022,3,albert_park,max_verstappen,1997-09-30,Dutch,red_bull,2,,Fuel leak,0,18
+2022,3,albert_park,vettel,1987-07-03,German,aston_martin,17,,Accident,0,19
+2022,3,albert_park,sainz,1994-09-01,Spanish,ferrari,9,,Spun off,0,20
+2022,4,imola,max_verstappen,1997-09-30,Dutch,red_bull,1,5527986,Finished,26,1
+2022,4,imola,perez,1990-01-26,Mexican,red_bull,3,5544513,Finished,18,2
+2022,4,imola,norris,1999-11-13,British,mclaren,5,5562820,Finished,15,3
+2022,4,imola,russell,1998-02-15,British,mercedes,11,5570492,Finished,12,4
+2022,4,imola,bottas,1989-08-28,Finnish,alfa,7,5571167,Finished,10,5
+2022,4,imola,leclerc,1997-10-16,Monegasque,ferrari,2,5584058,Finished,8,6
+2022,4,imola,tsunoda,2000-05-11,Japanese,alphatauri,12,5589096,Finished,6,7
+2022,4,imola,vettel,1987-07-03,German,aston_martin,13,5598878,Finished,4,8
+2022,4,imola,kevin_magnussen,1992-10-05,Danish,haas,8,5603246,Finished,2,9
+2022,4,imola,stroll,1998-10-29,Canadian,aston_martin,15,,+1 Lap,1,10
+2022,4,imola,albon,1996-03-23,Thai,williams,18,,+1 Lap,0,11
+2022,4,imola,gasly,1996-02-07,French,alphatauri,17,,+1 Lap,0,12
+2022,4,imola,hamilton,1985-01-07,British,mercedes,14,,+1 Lap,0,13
+2022,4,imola,ocon,1996-09-17,French,alpine,16,,+1 Lap,0,14
+2022,4,imola,zhou,1999-05-30,Chinese,alfa,0,,+1 Lap,0,15
+2022,4,imola,latifi,1995-06-29,Canadian,williams,19,,+1 Lap,0,16
+2022,4,imola,mick_schumacher,1999-03-22,German,haas,10,,+1 Lap,0,17
+2022,4,imola,ricciardo,1989-07-01,Australian,mclaren,6,,+1 Lap,0,18
+2022,4,imola,alonso,1981-07-29,Spanish,alpine,9,,Collision damage,0,19
+2022,4,imola,sainz,1994-09-01,Spanish,ferrari,4,,Collision,0,20
+2022,5,miami,max_verstappen,1997-09-30,Dutch,red_bull,3,5664258,Finished,26,1
+2022,5,miami,leclerc,1997-10-16,Monegasque,ferrari,1,5668044,Finished,18,2
+2022,5,miami,sainz,1994-09-01,Spanish,ferrari,2,5672487,Finished,15,3
+2022,5,miami,perez,1990-01-26,Mexican,red_bull,4,5674896,Finished,12,4
+2022,5,miami,russell,1998-02-15,British,mercedes,12,5682840,Finished,10,5
+2022,5,miami,hamilton,1985-01-07,British,mercedes,6,5685626,Finished,8,6
+2022,5,miami,bottas,1989-08-28,Finnish,alfa,5,5689331,Finished,6,7
+2022,5,miami,ocon,1996-09-17,French,alpine,20,5692644,Finished,4,8
+2022,5,miami,albon,1996-03-23,Thai,williams,18,5696623,Finished,2,9
+2022,5,miami,stroll,1998-10-29,Canadian,aston_martin,0,5701284,Finished,1,10
+2022,5,miami,alonso,1981-07-29,Spanish,alpine,11,5701386,Finished,0,11
+2022,5,miami,tsunoda,2000-05-11,Japanese,alphatauri,9,5704404,Finished,0,12
+2022,5,miami,ricciardo,1989-07-01,Australian,mclaren,14,5705160,Finished,0,13
+2022,5,miami,latifi,1995-06-29,Canadian,williams,19,5714194,Finished,0,14
+2022,5,miami,mick_schumacher,1999-03-22,German,haas,15,5737563,Finished,0,15
+2022,5,miami,kevin_magnussen,1992-10-05,Danish,haas,16,,Front wing,0,16
+2022,5,miami,vettel,1987-07-03,German,aston_martin,0,,Collision,0,17
+2022,5,miami,gasly,1996-02-07,French,alphatauri,7,,Suspension,0,18
+2022,5,miami,norris,1999-11-13,British,mclaren,8,,Collision,0,19
+2022,5,miami,zhou,1999-05-30,Chinese,alfa,17,,Water leak,0,20
+2022,6,catalunya,max_verstappen,1997-09-30,Dutch,red_bull,2,5840475,Finished,25,1
+2022,6,catalunya,perez,1990-01-26,Mexican,red_bull,5,5853547,Finished,19,2
+2022,6,catalunya,russell,1998-02-15,British,mercedes,4,5873402,Finished,15,3
+2022,6,catalunya,sainz,1994-09-01,Spanish,ferrari,3,5885683,Finished,12,4
+2022,6,catalunya,hamilton,1985-01-07,British,mercedes,6,5895009,Finished,10,5
+2022,6,catalunya,bottas,1989-08-28,Finnish,alfa,7,5900451,Finished,8,6
+2022,6,catalunya,ocon,1996-09-17,French,alpine,12,5915872,Finished,6,7
+2022,6,catalunya,norris,1999-11-13,British,mclaren,11,5923710,Finished,4,8
+2022,6,catalunya,alonso,1981-07-29,Spanish,alpine,20,,+1 Lap,2,9
+2022,6,catalunya,tsunoda,2000-05-11,Japanese,alphatauri,13,,+1 Lap,1,10
+2022,6,catalunya,vettel,1987-07-03,German,aston_martin,16,,+1 Lap,0,11
+2022,6,catalunya,ricciardo,1989-07-01,Australian,mclaren,9,,+1 Lap,0,12
+2022,6,catalunya,gasly,1996-02-07,French,alphatauri,14,,+1 Lap,0,13
+2022,6,catalunya,mick_schumacher,1999-03-22,German,haas,10,,+1 Lap,0,14
+2022,6,catalunya,stroll,1998-10-29,Canadian,aston_martin,17,,+1 Lap,0,15
+2022,6,catalunya,latifi,1995-06-29,Canadian,williams,19,,+2 Laps,0,16
+2022,6,catalunya,kevin_magnussen,1992-10-05,Danish,haas,8,,+2 Laps,0,17
+2022,6,catalunya,albon,1996-03-23,Thai,williams,18,,+2 Laps,0,18
+2022,6,catalunya,zhou,1999-05-30,Chinese,alfa,15,,Power loss,0,19
+2022,6,catalunya,leclerc,1997-10-16,Monegasque,ferrari,1,,Turbo,0,20
+2022,7,monaco,perez,1990-01-26,Mexican,red_bull,3,6990265,Finished,25,1
+2022,7,monaco,sainz,1994-09-01,Spanish,ferrari,2,6991419,Finished,18,2
+2022,7,monaco,max_verstappen,1997-09-30,Dutch,red_bull,4,6991756,Finished,15,3
+2022,7,monaco,leclerc,1997-10-16,Monegasque,ferrari,1,6993187,Finished,12,4
+2022,7,monaco,russell,1998-02-15,British,mercedes,6,7002233,Finished,10,5
+2022,7,monaco,norris,1999-11-13,British,mclaren,5,7002496,Finished,9,6
+2022,7,monaco,alonso,1981-07-29,Spanish,alpine,7,7036623,Finished,6,7
+2022,7,monaco,hamilton,1985-01-07,British,mercedes,8,7040653,Finished,4,8
+2022,7,monaco,bottas,1989-08-28,Finnish,alfa,12,7042790,Finished,2,9
+2022,7,monaco,vettel,1987-07-03,German,aston_martin,9,7043801,Finished,1,10
+2022,7,monaco,gasly,1996-02-07,French,alphatauri,17,7044554,Finished,0,11
+2022,7,monaco,ocon,1996-09-17,French,alpine,10,7045909,Finished,0,12
+2022,7,monaco,ricciardo,1989-07-01,Australian,mclaren,14,7047900,Finished,0,13
+2022,7,monaco,stroll,1998-10-29,Canadian,aston_martin,18,7051067,Finished,0,14
+2022,7,monaco,latifi,1995-06-29,Canadian,williams,19,,+1 Lap,0,15
+2022,7,monaco,zhou,1999-05-30,Chinese,alfa,20,,+1 Lap,0,16
+2022,7,monaco,tsunoda,2000-05-11,Japanese,alphatauri,11,,+1 Lap,0,17
+2022,7,monaco,albon,1996-03-23,Thai,williams,16,,Mechanical,0,18
+2022,7,monaco,mick_schumacher,1999-03-22,German,haas,15,,Accident,0,19
+2022,7,monaco,kevin_magnussen,1992-10-05,Danish,haas,13,,Water pressure,0,20
+2023,1,bahrain,max_verstappen,1997-09-30,Dutch,red_bull,1,5636736,Finished,25,1
+2023,1,bahrain,perez,1990-01-26,Mexican,red_bull,2,5648723,Finished,18,2
+2023,1,bahrain,alonso,1981-07-29,Spanish,aston_martin,5,5675373,Finished,15,3
+2023,1,bahrain,sainz,1994-09-01,Spanish,ferrari,4,5684788,Finished,12,4
+2023,1,bahrain,hamilton,1985-01-07,British,mercedes,7,5687713,Finished,10,5
+2023,1,bahrain,stroll,1998-10-29,Canadian,aston_martin,8,5691238,Finished,8,6
+2023,1,bahrain,russell,1998-02-15,British,mercedes,6,5692609,Finished,6,7
+2023,1,bahrain,bottas,1989-08-28,Finnish,alfa,12,5709383,Finished,4,8
+2023,1,bahrain,gasly,1996-02-07,French,alpine,20,5710489,Finished,2,9
+2023,1,bahrain,albon,1996-03-23,Thai,williams,15,5726510,Finished,1,10
+2023,1,bahrain,tsunoda,2000-05-11,Japanese,alphatauri,14,5727606,Finished,0,11
+2023,1,bahrain,sargeant,2000-12-31,American,williams,16,,+1 Lap,0,12
+2023,1,bahrain,kevin_magnussen,1992-10-05,Danish,haas,17,,+1 Lap,0,13
+2023,1,bahrain,de_vries,1995-02-06,Dutch,alphatauri,19,,+1 Lap,0,14
+2023,1,bahrain,hulkenberg,1987-08-19,German,haas,10,,+1 Lap,0,15
+2023,1,bahrain,zhou,1999-05-30,Chinese,alfa,13,,+1 Lap,0,16
+2023,1,bahrain,norris,1999-11-13,British,mclaren,11,,+2 Laps,0,17
+2023,1,bahrain,ocon,1996-09-17,French,alpine,9,,Mechanical,0,18
+2023,1,bahrain,leclerc,1997-10-16,Monegasque,ferrari,3,,Engine,0,19
+2023,1,bahrain,piastri,2001-04-06,Australian,mclaren,18,,Electrical,0,20
+2023,2,jeddah,perez,1990-01-26,Mexican,red_bull,1,4874894,Finished,25,1
+2023,2,jeddah,max_verstappen,1997-09-30,Dutch,red_bull,15,4880249,Finished,19,2
+2023,2,jeddah,alonso,1981-07-29,Spanish,aston_martin,2,4895622,Finished,15,3
+2023,2,jeddah,russell,1998-02-15,British,mercedes,3,4900760,Finished,12,4
+2023,2,jeddah,hamilton,1985-01-07,British,mercedes,7,4905959,Finished,10,5
+2023,2,jeddah,sainz,1994-09-01,Spanish,ferrari,4,4910770,Finished,8,6
+2023,2,jeddah,leclerc,1997-10-16,Monegasque,ferrari,12,4918056,Finished,6,7
+2023,2,jeddah,ocon,1996-09-17,French,alpine,6,4927726,Finished,4,8
+2023,2,jeddah,gasly,1996-02-07,French,alpine,9,4929641,Finished,2,9
+2023,2,jeddah,kevin_magnussen,1992-10-05,Danish,haas,13,4939720,Finished,1,10
+2023,2,jeddah,tsunoda,2000-05-11,Japanese,alphatauri,16,4942388,Finished,0,11
+2023,2,jeddah,hulkenberg,1987-08-19,German,haas,10,4945482,Finished,0,12
+2023,2,jeddah,zhou,1999-05-30,Chinese,alfa,11,4950954,Finished,0,13
+2023,2,jeddah,de_vries,1995-02-06,Dutch,alphatauri,18,4952372,Finished,0,14
+2023,2,jeddah,piastri,2001-04-06,Australian,mclaren,8,4959915,Finished,0,15
+2023,2,jeddah,sargeant,2000-12-31,American,williams,20,4961187,Finished,0,16
+2023,2,jeddah,norris,1999-11-13,British,mclaren,19,4961339,Finished,0,17
+2023,2,jeddah,bottas,1989-08-28,Finnish,alfa,14,,+1 Lap,0,18
+2023,2,jeddah,albon,1996-03-23,Thai,williams,17,,Brakes,0,19
+2023,2,jeddah,stroll,1998-10-29,Canadian,aston_martin,5,,Engine,0,20
+2023,3,albert_park,max_verstappen,1997-09-30,Dutch,red_bull,1,9158371,Finished,25,1
+2023,3,albert_park,hamilton,1985-01-07,British,mercedes,3,9158550,Finished,18,2
+2023,3,albert_park,alonso,1981-07-29,Spanish,aston_martin,4,9159140,Finished,15,3
+2023,3,albert_park,stroll,1998-10-29,Canadian,aston_martin,6,9161453,Finished,12,4
+2023,3,albert_park,perez,1990-01-26,Mexican,red_bull,0,9161691,Finished,11,5
+2023,3,albert_park,norris,1999-11-13,British,mclaren,13,9162072,Finished,8,6
+2023,3,albert_park,hulkenberg,1987-08-19,German,haas,10,9163310,Finished,6,7
+2023,3,albert_park,piastri,2001-04-06,Australian,mclaren,16,9163753,Finished,4,8
+2023,3,albert_park,zhou,1999-05-30,Chinese,alfa,17,9164084,Finished,2,9
+2023,3,albert_park,tsunoda,2000-05-11,Japanese,alphatauri,12,9164423,Finished,1,10
+2023,3,albert_park,bottas,1989-08-28,Finnish,alfa,0,9164884,Finished,0,11
+2023,3,albert_park,sainz,1994-09-01,Spanish,ferrari,5,9164965,Finished,0,12
+2023,3,albert_park,gasly,1996-02-07,French,alpine,9,,Collision,0,13
+2023,3,albert_park,ocon,1996-09-17,French,alpine,11,,Collision,0,14
+2023,3,albert_park,de_vries,1995-02-06,Dutch,alphatauri,15,,Collision,0,15
+2023,3,albert_park,sargeant,2000-12-31,American,williams,18,,Collision,0,16
+2023,3,albert_park,kevin_magnussen,1992-10-05,Danish,haas,14,,Accident,0,17
+2023,3,albert_park,russell,1998-02-15,British,mercedes,2,,Engine,0,18
+2023,3,albert_park,albon,1996-03-23,Thai,williams,8,,Accident,0,19
+2023,3,albert_park,leclerc,1997-10-16,Monegasque,ferrari,7,,Collision,0,20
+2023,4,baku,perez,1990-01-26,Mexican,red_bull,3,5562436,Finished,25,1
+2023,4,baku,max_verstappen,1997-09-30,Dutch,red_bull,2,5564573,Finished,18,2
+2023,4,baku,leclerc,1997-10-16,Monegasque,ferrari,1,5583653,Finished,15,3
+2023,4,baku,alonso,1981-07-29,Spanish,aston_martin,6,5584460,Finished,12,4
+2023,4,baku,sainz,1994-09-01,Spanish,ferrari,4,5607927,Finished,10,5
+2023,4,baku,hamilton,1985-01-07,British,mercedes,5,5608581,Finished,8,6
+2023,4,baku,stroll,1998-10-29,Canadian,aston_martin,9,5614053,Finished,6,7
+2023,4,baku,russell,1998-02-15,British,mercedes,11,5636676,Finished,5,8
+2023,4,baku,norris,1999-11-13,British,mclaren,7,5642812,Finished,2,9
+2023,4,baku,tsunoda,2000-05-11,Japanese,alphatauri,8,5646298,Finished,1,10
+2023,4,baku,piastri,2001-04-06,Australian,mclaren,10,5648937,Finished,0,11
+2023,4,baku,albon,1996-03-23,Thai,williams,12,5651059,Finished,0,12
+2023,4,baku,kevin_magnussen,1992-10-05,Danish,haas,16,5652165,Finished,0,13
+2023,4,baku,gasly,1996-02-07,French,alpine,17,5653768,Finished,0,14
+2023,4,baku,ocon,1996-09-17,French,alpine,0,5660230,Finished,0,15
+2023,4,baku,sargeant,2000-12-31,American,williams,14,5663379,Finished,0,16
+2023,4,baku,hulkenberg,1987-08-19,German,haas,0,,+1 Lap,0,17
+2023,4,baku,bottas,1989-08-28,Finnish,alfa,13,,+1 Lap,0,18
+2023,4,baku,zhou,1999-05-30,Chinese,alfa,15,,Overheating,0,19
+2023,4,baku,de_vries,1995-02-06,Dutch,alphatauri,18,,Accident,0,20
+2023,5,miami,max_verstappen,1997-09-30,Dutch,red_bull,9,5258241,Finished,26,1
+2023,5,miami,perez,1990-01-26,Mexican,red_bull,1,5263625,Finished,18,2
+2023,5,miami,alonso,1981-07-29,Spanish,aston_martin,2,5284546,Finished,15,3
+2023,5,miami,russell,1998-02-15,British,mercedes,6,5291470,Finished,12,4
+2023,5,miami,sainz,1994-09-01,Spanish,ferrari,3,5300752,Finished,10,5
+2023,5,miami,hamilton,1985-01-07,British,mercedes,13,5309490,Finished,8,6
+2023,5,miami,leclerc,1997-10-16,Monegasque,ferrari,7,5311229,Finished,6,7
+2023,5,miami,gasly,1996-02-07,French,alpine,5,5313911,Finished,4,8
+2023,5,miami,ocon,1996-09-17,French,alpine,8,5316364,Finished,2,9
+2023,5,miami,kevin_magnussen,1992-10-05,Danish,haas,4,5321186,Finished,1,10
+2023,5,miami,tsunoda,2000-05-11,Japanese,alphatauri,17,5322550,Finished,0,11
+2023,5,miami,stroll,1998-10-29,Canadian,aston_martin,18,5322995,Finished,0,12
+2023,5,miami,bottas,1989-08-28,Finnish,alfa,10,5329878,Finished,0,13
+2023,5,miami,albon,1996-03-23,Thai,williams,11,5331102,Finished,0,14
+2023,5,miami,hulkenberg,1987-08-19,German,haas,12,5333191,Finished,0,15
+2023,5,miami,zhou,1999-05-30,Chinese,alfa,14,5336681,Finished,0,16
+2023,5,miami,norris,1999-11-13,British,mclaren,16,5345958,Finished,0,17
+2023,5,miami,de_vries,1995-02-06,Dutch,alphatauri,15,5347190,Finished,0,18
+2023,5,miami,piastri,2001-04-06,Australian,mclaren,19,,+1 Lap,0,19
+2023,5,miami,sargeant,2000-12-31,American,williams,20,,+1 Lap,0,20
+2023,6,monaco,max_verstappen,1997-09-30,Dutch,red_bull,1,6531980,Finished,25,1
+2023,6,monaco,alonso,1981-07-29,Spanish,aston_martin,2,6559901,Finished,18,2
+2023,6,monaco,ocon,1996-09-17,French,alpine,3,6568970,Finished,15,3
+2023,6,monaco,hamilton,1985-01-07,British,mercedes,5,6571042,Finished,13,4
+2023,6,monaco,russell,1998-02-15,British,mercedes,8,6588264,Finished,10,5
+2023,6,monaco,leclerc,1997-10-16,Monegasque,ferrari,6,6593870,Finished,8,6
+2023,6,monaco,gasly,1996-02-07,French,alpine,7,6594342,Finished,6,7
+2023,6,monaco,sainz,1994-09-01,Spanish,ferrari,4,6595371,Finished,4,8
+2023,6,monaco,norris,1999-11-13,British,mclaren,10,,+1 Lap,2,9
+2023,6,monaco,piastri,2001-04-06,Australian,mclaren,11,,+1 Lap,1,10
+2023,6,monaco,bottas,1989-08-28,Finnish,alfa,15,,+1 Lap,0,11
+2023,6,monaco,de_vries,1995-02-06,Dutch,alphatauri,12,,+1 Lap,0,12
+2023,6,monaco,zhou,1999-05-30,Chinese,alfa,19,,+1 Lap,0,13
+2023,6,monaco,albon,1996-03-23,Thai,williams,13,,+1 Lap,0,14
+2023,6,monaco,tsunoda,2000-05-11,Japanese,alphatauri,9,,+2 Laps,0,15
+2023,6,monaco,perez,1990-01-26,Mexican,red_bull,20,,+2 Laps,0,16
+2023,6,monaco,hulkenberg,1987-08-19,German,haas,18,,+2 Laps,0,17
+2023,6,monaco,sargeant,2000-12-31,American,williams,16,,+2 Laps,0,18
+2023,6,monaco,kevin_magnussen,1992-10-05,Danish,haas,17,,Collision damage,0,19
+2023,6,monaco,stroll,1998-10-29,Canadian,aston_martin,14,,Accident,0,20
+2023,7,catalunya,max_verstappen,1997-09-30,Dutch,red_bull,1,5277940,Finished,26,1
+2023,7,catalunya,hamilton,1985-01-07,British,mercedes,4,5302030,Finished,18,2
+2023,7,catalunya,russell,1998-02-15,British,mercedes,12,5310329,Finished,15,3
+2023,7,catalunya,perez,1990-01-26,Mexican,red_bull,11,5313752,Finished,12,4
+2023,7,catalunya,sainz,1994-09-01,Spanish,ferrari,2,5323638,Finished,10,5
+2023,7,catalunya,stroll,1998-10-29,Canadian,aston_martin,5,5341260,Finished,8,6
+2023,7,catalunya,alonso,1981-07-29,Spanish,aston_martin,8,5342067,Finished,6,7
+2023,7,catalunya,ocon,1996-09-17,French,alpine,6,5347182,Finished,4,8
+2023,7,catalunya,zhou,1999-05-30,Chinese,alfa,13,5349818,Finished,2,9
+2023,7,catalunya,gasly,1996-02-07,French,alpine,10,5351470,Finished,1,10
+2023,7,catalunya,leclerc,1997-10-16,Monegasque,ferrari,19,5352359,Finished,0,11
+2023,7,catalunya,tsunoda,2000-05-11,Japanese,alphatauri,15,5353356,Finished,0,12
+2023,7,catalunya,piastri,2001-04-06,Australian,mclaren,9,,+1 Lap,0,13
+2023,7,catalunya,de_vries,1995-02-06,Dutch,alphatauri,14,,+1 Lap,0,14
+2023,7,catalunya,hulkenberg,1987-08-19,German,haas,7,,+1 Lap,0,15
+2023,7,catalunya,albon,1996-03-23,Thai,williams,18,,+1 Lap,0,16
+2023,7,catalunya,norris,1999-11-13,British,mclaren,3,,+1 Lap,0,17
+2023,7,catalunya,kevin_magnussen,1992-10-05,Danish,haas,17,,+1 Lap,0,18
+2023,7,catalunya,bottas,1989-08-28,Finnish,alfa,16,,+1 Lap,0,19
+2023,7,catalunya,sargeant,2000-12-31,American,williams,20,,+1 Lap,0,20
+2023,8,villeneuve,max_verstappen,1997-09-30,Dutch,red_bull,1,5638348,Finished,25,1
+2023,8,villeneuve,alonso,1981-07-29,Spanish,aston_martin,2,5647918,Finished,18,2
+2023,8,villeneuve,hamilton,1985-01-07,British,mercedes,3,5642946,Finished,15,3
+2023,8,villeneuve,leclerc,1997-10-16,Monegasque,ferrari,10,5656996,Finished,12,4
+2023,8,villeneuve,sainz,1994-09-01,Spanish,ferrari,11,5659888,Finished,10,5
+2023,8,villeneuve,perez,1990-01-26,Mexican,red_bull,12,5689376,Finished,9,6
+2023,8,villeneuve,albon,1996-03-23,Thai,williams,9,5699161,Finished,6,7
+2023,8,villeneuve,ocon,1996-09-17,French,alpine,6,5700040,Finished,4,8
+2023,8,villeneuve,stroll,1998-10-29,Canadian,aston_martin,16,5702750,Finished,2,9
+2023,8,villeneuve,bottas,1989-08-28,Finnish,alfa,14,5702780,Finished,1,10
+2023,8,villeneuve,piastri,2001-04-06,Australian,mclaren,8,5703449,Finished,0,11
+2023,8,villeneuve,gasly,1996-02-07,French,alpine,15,5703597,Finished,0,12
+2023,8,villeneuve,norris,1999-11-13,British,mclaren,7,5706711,Finished,0,13
+2023,8,villeneuve,tsunoda,2000-05-11,Japanese,alphatauri,19,5711771,Finished,0,14
+2023,8,villeneuve,hulkenberg,1987-08-19,German,haas,5,,+1 Lap,0,15
+2023,8,villeneuve,zhou,1999-05-30,Chinese,alfa,20,,+1 Lap,0,16
+2023,8,villeneuve,kevin_magnussen,1992-10-05,Danish,haas,13,,+1 Lap,0,17
+2023,8,villeneuve,de_vries,1995-02-06,Dutch,alphatauri,17,,+1 Lap,0,18
+2023,8,villeneuve,russell,1998-02-15,British,mercedes,4,,Brakes,0,19
+2023,8,villeneuve,sargeant,2000-12-31,American,williams,18,,Engine,0,20
